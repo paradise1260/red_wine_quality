@@ -14,6 +14,7 @@ app = Dash(
     title="Individual Assignment 1",
     external_stylesheets=["https://codepen.io/chriddyp/pen/bWLwgP.css"],
 )
+server = app.server
 app.layout = html.Div(
     [
         html.H2("Red Wine Quality"),
