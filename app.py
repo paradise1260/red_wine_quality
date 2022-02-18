@@ -1,4 +1,3 @@
-from turtle import title
 from dash import Dash, html, Input, Output, dcc
 import pandas as pd
 import altair as alt
