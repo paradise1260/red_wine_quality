@@ -1,7 +1,6 @@
-# requirements
 pandas
 gunicorn
 altair
 dash
 dash_bootstrap_components
-plotly==4.14.3
+plotly
